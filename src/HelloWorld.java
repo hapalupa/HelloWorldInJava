@@ -1,6 +1,5 @@
 
 /**
- *
  * @author Pawel
  */
 public class HelloWorld {
